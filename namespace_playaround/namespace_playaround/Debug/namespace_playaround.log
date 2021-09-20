@@ -1,0 +1,3 @@
+﻿  namespace_playaround.cpp
+C:\Users\albus\source\repos\namespace_playaround\namespace_playaround\namespace_playaround.cpp(11,64): warning C4305: 'argument': truncation from 'double' to 'float'
+  namespace_playaround.vcxproj -> C:\Users\albus\source\repos\namespace_playaround\Debug\namespace_playaround.exe
